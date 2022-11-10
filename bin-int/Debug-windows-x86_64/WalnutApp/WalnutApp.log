@@ -1,0 +1,4 @@
+﻿  WalnutApp.cpp
+C:\Users\user\Desktop\proj\Walnut\WalnutApp\src\WalnutApp.cpp(16,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\proj\Walnut\WalnutApp\src\WalnutApp.cpp(16,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  WalnutApp.vcxproj -> C:\Users\user\Desktop\proj\Walnut\bin\Debug-windows-x86_64\WalnutApp\WalnutApp.exe
